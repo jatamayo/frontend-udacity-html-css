@@ -1,9 +1,26 @@
 .title
 	{
-	color:black;
-	font-size:60px; 
+	color:#666;
+	font-family:sans-serif;
 	}
+.subtitle
+{
+	color:#f07c17;
+}
+.cuadro
+{
+	margin: 20px; 
+  	border: #ccc 2px solid; 
+  	color:#86B404;
+
+}
 .image
 {
-	width: 350px;
+	width: 300px;
 }
+p
+{
+	font-size:17px;
+}
+
+
